@@ -2,12 +2,7 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>Chính sách quyền riêng tư - GPLX 2025</title>
-  <style>
-    body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
-    h1 { color: #1a73e8; }
-    h2 { margin-top: 30px; }
-    ul { padding-left: 20px; }
+  Chính sách quyền riêng tư - GPLX 2025
   </style>
 </head>
 <body>

@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   Chính sách quyền riêng tư - GPLX 2025
-  </style>
 </head>
 <body>
   <h1>Chính Sách Quyền Riêng Tư</h1>
